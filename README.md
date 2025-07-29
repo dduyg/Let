@@ -469,14 +469,17 @@ let pointFillColor = 0;
 <details>
 <summary>&nbsp;<code>🧱 terminal colorPalettes</code></summary>
 <br>
-<img src="https://raw.githubusercontent.com/dduyg/LiminalLoop/refs/heads/main/01/vscode-example.png" width="250">
-<img src="https://raw.githubusercontent.com/dduyg/LiminalLoop/refs/heads/main/01/vim-example.png" width="250">
-<img src="https://raw.githubusercontent.com/dduyg/LiminalLoop/refs/heads/main/01/specimen_2.png" width="250">
-<img src="https://raw.githubusercontent.com/dduyg/LiminalLoop/refs/heads/main/01/emacs-example.png" width="250">
-<img src="https://raw.githubusercontent.com/dduyg/LiminalLoop/refs/heads/main/01/helix-example.png" width="250">
-<img src="https://raw.githubusercontent.com/dduyg/LiminalLoop/refs/heads/main/01/color01combi.jpeg" width="250">
-<img src="https://raw.githubusercontent.com/dduyg/LiminalLoop/refs/heads/main/01/color02combi.jpg" width="250">
-<img src="https://raw.githubusercontent.com/dduyg/LiminalLoop/refs/heads/main/01/colorcombi03-comicmono.jpg" width="250">   
+<img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/vscode-example.png" width="250">
+<img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/vim-example.png" width="250">
+<img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/specimen_2.png" width="250">
+<img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/emacs-example.png" width="250">
+<img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/helix-example.png" width="250">
+<img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/color01combi.jpeg" width="250">
+<img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/color02combi.jpg" width="250">
+<img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/colorcombi03-comicmono.jpg" width="250">
+ <img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/calling_code-2.jpg" width="250">
+    <img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/goorm_code.jpg" width="250">
+    <img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/maker_mono.jpg" width="250">
 </details>
 
 <details>
