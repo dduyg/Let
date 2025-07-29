@@ -478,8 +478,9 @@ let pointFillColor = 0;
 <img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/color02combi.jpg" width="250">
 <img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/colorcombi03-comicmono.jpg" width="250">
  <img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/calling_code-2.jpg" width="250">
-    <img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/goorm_code.jpg" width="250">
-    <img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/maker_mono.jpg" width="250">
+ <img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/goorm_code.jpg" width="250">
+ <img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/maker_mono.jpg" width="250">
+ <img src="https://cdn.jsdelivr.net/gh/dduyg/LiminalLoop@main/01/new_heterodox_mono.jpg" width="250">
 </details>
 
 <details>
