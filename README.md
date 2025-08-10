@@ -598,3 +598,27 @@ To verify a jsDelivr link:
 - Check DevTools → Network to confirm it's loading via CDN.
 
 </details>
+
+<details>
+<summary>&nbsp;<code>🌀 SVG optimizer</code></summary>
+<br>
+
+You can use tools like:
+
+- 🔗 [**SVGOMG** (SVGO GUI)](https://jakearchibald.github.io/svgomg/)
+- CLI tool: `svgo`
+
+These **automatically remove metadata, compress path data**, and shorten the code **without changing the appearance**.
+
+### Example using SVGOMG:
+
+Upload your current SVG → Enable:
+
+- **Remove editor data**
+- **Cleanup IDs**
+- **Minify path data**
+- **Convert shapes to paths**
+
+And copy the optimized version it gives you.
+
+</details>
